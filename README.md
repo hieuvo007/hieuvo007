@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋S, I'm hieuvo007</h1>
+<h1 align="center">Hi 👋, I'm hieuvo007</h1>
 <h3 align="center">IC Design Engineer</h3>
 
 - 🔭 I’m currently working on **Digital Logic Design & Simulation in Proteus**
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Circuit Analysis, Logic Gates, Boolean Algebra, Proteus**
 
-- 📫 How to reach me **hieuvo@gmail.com**
+- 📫 How to reach me **hieuvothua@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
