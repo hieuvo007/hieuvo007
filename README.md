@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm hieuvo007 👋</h1>
+<h3 align="center">First-Year Electrical & Electronics Engineering Student ⚡</h3>
 
-<!--
-**hieuvo007/hieuvo007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="right">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding animation">
+</div>
 
-Here are some ideas to get you started:
+<p align="left"> 
+  Welcome to my GitHub profile! I am a freshman student passionate about Electronics, Circuit Design, and Embedded Systems.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently learning: **C/C++, Python, Circuit Analysis**
+- ⚡ Interests: **Microcontrollers, IoT, Robotics**
+- 📫 Contact me: **hieuvothua@gmail.com**
+
+<h3 align="left">Languages & Tools:</h3>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=hieuvo007&show_icons=true&theme=radical" alt="hieuvo007 stats" />
+</p>
