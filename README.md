@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:hieuvothua@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hieuvothua@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/hi%E1%BA%BFu-v%C3%B5-52576438a/">
+  <a href="https://www.linkedin.com/in/hi%E1%BA%BFu-v%C3%B5-52576438a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
