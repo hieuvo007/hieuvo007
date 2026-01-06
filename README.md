@@ -6,13 +6,13 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Digital Logic Design & Simulation in Proteus**
+-  I’m currently working on **Digital Logic Design & Simulation in Proteus**
 
-- 🌱 I’m currently learning **Verilog HDL, FPGA basics, Computer Architecture, Linux**
+-  I’m currently learning **Verilog HDL, FPGA basics, Computer Architecture, Linux**
 
-- 💬 Ask me about **Circuit Analysis, Logic Gates, Boolean Algebra, Proteus**
+-  Ask me about **Circuit Analysis, Logic Gates, Boolean Algebra, Proteus**
 
-- 📫 How to reach me **hieuvothua@gmail.com**
+-  How to reach me **hieuvothua@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
