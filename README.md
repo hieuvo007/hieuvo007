@@ -5,11 +5,3 @@
 </div>
 
 <br/>
-
--  I’m currently focusing on **Analog IC Design**.
-
--  How to reach me: **[hieuvothua@gmail.com](mailto:hieuvothua@gmail.com)**
-
-### Languages and Tools:
-- **EDA & Simulation:** Xschem, Ngspice, LTspice, Quartus, Proteus
-- **Programming & OS:** C, Verilog, Python, Linux
